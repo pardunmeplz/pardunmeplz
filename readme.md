@@ -5,7 +5,3 @@
   - Kotlin
   - React Native
   - Flutter
-
-```
-Programmers == Professional Switch Flippers - pardun
-```
