@@ -11,6 +11,7 @@ until they make sense.
 - parsers, state machines, and protocols  
 - editor tooling
 - framework internals
+- game dev
 
 ---
 
